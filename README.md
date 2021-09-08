@@ -12,4 +12,4 @@ A plugin that helps managing the RP.
 | --- | --- | --- |
 
 # Download
-![img](https://img.shields.io/github/downloads/SpaceTm/UltimateCassie/total?style=for-the-badge)
+![img](https://img.shields.io/github/downloads/SpaceTm/RpManager/total?style=for-the-badge)
