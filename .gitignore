@@ -13,3 +13,6 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+
+.vs/
+**/[Pp]ackages/*
